@@ -7,6 +7,32 @@
 
 > A comprehensive educational resource for cryptocurrency security research, smart contract auditing, and blockchain security testing for authorized security professionals and researchers.
 
+## Overview
+Part of the **Cybersecurity Standard Model** inspired by particle physics. Explore [Focus] resources here.
+
+## Diagram
+![Cybersecurity Standard Model](https://raw.githubusercontent.com/nukIeer/cs/main/cybersecstandartmodel.png)
+
+## Related Links
+- Main Site: [🔬 Cybersecurity Standard Model](https://nukieer.github.io/cs/)
+- Related Repos:
+  - [Web Vulnerability Testing Toolkit](https://github.com/nukIeer/Web-Vulnerability-Testing-Toolkit)
+  - [Nmap Stealth Scanning Cheatsheet](https://github.com/nukIeer/Nmap-Stealth-Scanning-Cheatsheet)
+  - [Zero-Day Research Snippets](https://github.com/nukIeer/Zero-Day-Research-Snippets)
+  - [Stuxnet](https://github.com/nukIeer/stuxnet)
+  - [Intercepter-NG Source](https://github.com/nukIeer/intercepter-ng-source)
+  - [Ultimate OSINT Recon Toolkit](https://github.com/nukIeer/Ultimate-OSINT-Recon-Toolkit)
+  - [Cloud Misconfig Exploit Guide](https://github.com/nukIeer/Cloud-Misconfig-Exploit-Guide)
+  - [Crypto Wallet Hacking Snippets](https://github.com/nukIeer/Crypto-Wallet-Hacking-Snippets)
+  - [Mobile App Pentest Quickstart](https://github.com/nukIeer/Mobile-App-Pentest-Quickstart)
+  - [Game Hacking Reverse Engineering Toolkit](https://github.com/nukIeer/Game-Hacking-Reverse-Engineering-Toolkit-)
+  - [AI Prompt Injection Cheatsheet](https://github.com/nukIeer/AI-Prompt-Injection-Cheatsheet)
+  - [IoT Device Hacking Snippets](https://github.com/nukIeer/IoT-Device-Hacking-Snippets)
+  - [Social Engineering Toolkit](https://github.com/nukIeer/Social-Engineering-Toolkit)
+  - [Secet](https://github.com/nukIeer/secet)
+  - [Tracking UI](https://github.com/nukIeer/tracking-ui)
+  - [Enigma](https://github.com/nukIeer/enigma)
+  - [RSA Algorithm](https://github.com/nukIeer/rsa-algorithm)
 ---
 
 ## 🎯 **Mission Statement**
